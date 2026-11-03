@@ -1,4 +1,3 @@
-
 -- ============================================================================
 -- FILE: 02_exploratory_data_analysis.sql
 -- DESKRIPSI: Eksplorasi metrik bisnis utama (Booking Status, Success Rate, 
