@@ -1,3 +1,7 @@
+-- ============================================================================
+-- FILE: 01_data_cleaning_silver.sql
+-- DESKRIPSI: Cleaning untuk datasets utama untuk dibuat silver layer.
+-- ============================================================================
 CREATE OR REPLACE TABLE `uber-506405.uber_dataset.silver_uber` AS
 SELECT 
     `Date` AS `date`,
