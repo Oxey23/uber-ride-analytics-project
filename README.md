@@ -12,7 +12,7 @@ This project analyzes **Uber ride booking operations (2024)** using **Google Big
 ---
 
 ## 🖼️ Dashboard Preview
-![Uber Analytics Dashboard](./dashboard_preview/preview_dashboard.pn)
+![Uber Analytics Dashboard](./dashboard_preview/preview_dashboard.png)
 *(Note: Ensure the image file name inside `dashboard_preview/` matches the path above)*
 
 ---
