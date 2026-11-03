@@ -7,12 +7,12 @@
 ## 📌 Project Overview
 This project analyzes **Uber ride booking operations (2024)** using **Google BigQuery (SQL)** and **Looker Studio**. The primary goal is to evaluate operational efficiency, identify the root causes of ride cancellations (both customer and driver sides), measure revenue losses from incomplete rides, and provide actionable business recommendations.
 
-🔗 **[View Interactive Looker Studio Dashboard Here]([MASUKKAN_LINK_LOOKER_STUDIO_KAMU_DI_SINI])**
+🔗 **[View Interactive Looker Studio Dashboard Here](https://datastudio.google.com/reporting/14a1f47d-e1fa-41e7-9815-1d375d7b08ee)**
 
 ---
 
 ## 🖼️ Dashboard Preview
-![Uber Analytics Dashboard](./dashboard_preview/dashboard_screenshot.png)
+![Uber Analytics Dashboard](./dashboard_preview/preview_dashboard.pn)
 *(Note: Ensure the image file name inside `dashboard_preview/` matches the path above)*
 
 ---
